@@ -1,5 +1,6 @@
-<h2>hajimemashite, watashi wa Jamerski sama desu!<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>hajimemashite, watashi wa Jamerski sama desu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<p></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/foursbill?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
@@ -100,13 +101,3 @@ CSS                      6 repos             ██░░░░░░░░░�
 TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
 Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
 ```
-
-
-
-
- Last Updated on 11/03/2024 00:24:14 UTC
-<!--END_SECTION:waka-->
-
-**These Readme stats are generated using github action [awesome-readme-stats](https://github.com/anmol098/waka-readme-stats)**
-
-NOTE: Top languages does not indicate my skill level or anything like that. It is just a metric of which languages have been hosted by me on GitHub based on the usage across repositories. There are others which I haven't put up on GitHub.
