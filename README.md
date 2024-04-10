@@ -1,11 +1,8 @@
-<h2>hajimemashite, watashi wa Jamerski sama desu! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>hajimemashite, watashi wa foursbill desu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/foursbill?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -41,62 +38,32 @@ const anmol = {
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-4.0%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
+A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
+- Open to project collaborations
+- You can reach me through: <a href="https://johnmwendwa.vercel.app">Website</a>   |  <a href="mailto:dev.johnmwendwa@gmail.com">Email</a> | <a href="https://www.linkedin.com/in/john-mwendwa/">
+ <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
+- Open to interview
+- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>
+- **NOTE** : You can **fork** and **contribute** to any of the projects 
+ 
+### My Recent Projects
 
-> 🏆 11 Contributions in the Year 2024
- > 
-> 🚫 Not Opted to Hire
- > 
-> 📜 21 Public Repositories 
- > 
-> 🔑 23 Private Repositories 
- > 
-**I'm an Early 🐤** 
+ 1. [Vet management system](https://vet-management-system.vercel.app/)
+ 2. [Movies website](https://react-movies-lac.vercel.app/)
+ 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+ 4. [Blog for all developers](https://developers-home.vercel.app/)
 
-```text
-🌞 Morning                758 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-🌆 Daytime                1767 commits        ██████████░░░░░░░░░░░░░░░   40.67 % 
-🌃 Evening                1284 commits        ███████░░░░░░░░░░░░░░░░░░   29.55 % 
-🌙 Night                  536 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.34 % 
-```
-📅 **I'm Most Productive on Sunday** 
+### **Languages and Tools:**  
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next,expressjs,nodejs,mongodb,md,git,github,vscode,jest,postman,stackoverflow&perline=13)](#)
 
-```text
-Monday                   542 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Tuesday                  602 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.86 % 
-Wednesday                709 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.32 % 
-Thursday                 579 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.33 % 
-Friday                   454 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
-Saturday                 554 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.75 % 
-Sunday                   905 commits         █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-```
+### Github Stats ⚡
 
+ [![fours github stats](https://bad-apple-github-readme.vercel.app/api?username=foursbill&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ 
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=foursbill&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-📊 **This Week I Spent My Time On** 
+[![foursbill current streak](https://streak-stats.demolab.com/?user=foursbill&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-```text
-🕑︎ Time Zone: Asia/Dubai
-
-💬 Programming Languages: 
-TypeScript               7 hrs 24 mins       ██████████░░░░░░░░░░░░░░░   41.39 % 
-YAML                     4 hrs 34 mins       ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
-HTML                     1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-Docker                   53 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
-JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-
-🔥 Editors: 
-WebStorm                 17 hrs 52 mins      █████████████████████████   99.92 % 
-PyCharm                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
-
-💻 Operating System: 
-Mac                      17 hrs 53 mins      █████████████████████████   100.00 % 
-```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   47.83 % 
-Java                     7 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.14 % 
-CSS                      6 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-TypeScript               4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.80 % 
-Python                   3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-```
+<p align="center">
+     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
