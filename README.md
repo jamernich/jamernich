@@ -40,7 +40,6 @@ const anmol = {
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
 - Open to project collaborations
 - You can reach me through: <a href="mailto: kuronewhck@gmail.com">Email</a>
- <img  alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="30" align="center" /></a>
 - Open to interview
 - Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>
  
