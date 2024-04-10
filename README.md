@@ -1,4 +1,4 @@
-<h2>hajimemashite, watashi wa foursbill desu <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>hajimemashite, watashi wa foursbill desu</h2>
 <p></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/foursbill?label=Follow&style=social)
