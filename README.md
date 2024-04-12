@@ -32,7 +32,7 @@ const anmol = {
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-2%2C633%20hrs%201%20min-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-1653-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2791-blue)
 
 **🐱 My GitHub Data** 
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
