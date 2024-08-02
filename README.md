@@ -43,10 +43,9 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  
 ### My Recent Projects
 
- 1. [Vet management system](https://vet-management-system.vercel.app/)
- 2. [Movies website](https://react-movies-lac.vercel.app/)
- 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 4. [Blog for all developers](https://developers-home.vercel.app/)
+ 1. [Movies website](https://react-movies-lac.vercel.app/)
+ 2. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
+ 3. [Blog for all developers](https://developers-home.vercel.app/)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next,expressjs,nodejs,mongodb,md,git,github,vscode,jest,postman,stackoverflow&perline=13)](#)
