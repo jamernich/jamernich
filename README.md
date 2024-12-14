@@ -52,11 +52,11 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ### Github Stats ⚡
 
- [![fours github stats](https://bad-apple-github-readme.vercel.app/api?username=foursbill&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![jamer github stats](https://bad-apple-github-readme.vercel.app/api?username=jamernich&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=foursbill&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jamernich&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![foursbill current streak](https://streak-stats.demolab.com/?user=foursbill&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![jamernich current streak](https://streak-stats.demolab.com/?user=jamernich&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
