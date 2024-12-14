@@ -1,7 +1,7 @@
-<h2>hajimemashite, watashi wa foursbill desu</h2>
+<h2>hajimemashite, watashi wa jamer desu</h2>
 <p></p>
 
-![GitHub followers](https://img.shields.io/github/followers/foursbill?label=Follow&style=social)
+![GitHub followers](https://img.shields.io/github/followers/jamernich?label=Follow&style=social)
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
@@ -35,7 +35,7 @@ const anmol = {
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-2791-blue)
 
 **🐱 My GitHub Data** 
-A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Nairobi, Kenya. 
+A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Ngawi. 
 - Open to project collaborations
 - You can reach me through: <a href="mailto: kuronewhck@gmail.com">Email</a>
 - Open to interview
