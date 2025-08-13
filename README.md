@@ -1,4 +1,4 @@
-<h2>hajimemashite, watashi wa jamer desu</h2>
+<h2>Hello Bitch, im jamernich</h2>
 <p></p>
 
 ![GitHub followers](https://img.shields.io/github/followers/jamernich?label=Follow&style=social)
@@ -38,14 +38,11 @@ const anmol = {
 A **Full Stack Developer**  and an advocate for building **responsive**, **accessible** and **inclusive** digital products and experiences for the web based in Ngawi. 
 - Open to project collaborations
 - You can reach me through: <a href="mailto: kuronewhck@gmail.com">Email</a>
-- Open to interview
-- Currently working on <a href="https://book-commerce-murex.vercel.app/">book commerce</a>
  
 ### My Recent Projects
 
- 1. [Movies website](https://react-movies-lac.vercel.app/)
- 2. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 3. [Blog for all developers](https://developers-home.vercel.app/)
+ 1. [Blog for all developers](https://developers-home.vercel.app/)
+ 2. [My Personal Web](https://jamerski.vercel.app/)
 
 ### **Languages and Tools:**  
 [![My Skills](https://skills.thijs.gg/icons?i=html,css,js,react,next,expressjs,nodejs,mongodb,md,git,github,vscode,jest,postman,stackoverflow&perline=13)](#)
@@ -54,7 +51,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
  [![jamer github stats](https://bad-apple-github-readme.vercel.app/api?username=jamernich&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=jamernich&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https:/)/github-readme-mwendwa.vercel.app/api/top-langs/?username=jamernich&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 [![jamernich current streak](https://streak-stats.demolab.com/?user=jamernich&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
